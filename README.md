@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img src="./build.png" alt="Hat" height="60"/></a></p>
 <h1 align="center">Landing</h1>
-<p align="center">The bot that keeps calmed down people.</p>
+<p align="center">A simple HTML page to keep your visitors entertained</p>
 <p align="center">
 	<img src="https://img.shields.io/github/repo-size/EncryptEx/landing"/>
 	<img src="https://img.shields.io/github/languages/top/EncryptEx/landing"/>
