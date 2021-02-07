@@ -5,7 +5,6 @@
 	<img src="https://img.shields.io/github/repo-size/EncryptEx/landing"/>
 	<img src="https://img.shields.io/github/languages/top/EncryptEx/landing"/>
 	<img src="https://img.shields.io/github/last-commit/EncryptEx/landing?"/>
-	<img src="https://img.shields.io/badge/License-MIT-green"/>
 	<img src="https://img.shields.io/discord/729442309145493597"/>
 </p>
 
